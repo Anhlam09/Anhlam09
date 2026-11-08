@@ -4,7 +4,7 @@
 
 ### transmission
 
-Hi, welcome to my page 👋 I'm Anh. I work where healthcare meets AI, making new tools actually work for the people who use them. This is a little corner of fun things I like to build.
+Hi, welcome to my page 👋 I'm Anh. I implement and integrate tools across healthcare and AI: getting new systems set up, connected, and actually used by the people who need them, with a little data work along the way. This is a little corner of fun things I like to build.
 
 ### endpoints
 
